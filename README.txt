@@ -1,0 +1,1 @@
+Simples algoritmo genético que ajuda na escolha de cargas para melhor aproveitamento de um avião.
